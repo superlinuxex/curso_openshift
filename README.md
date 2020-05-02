@@ -1,2 +1,3 @@
-# curso_openshift
-Practicas del curso Openshift
+# DO101-apps
+
+Apps for the DO101 course.
