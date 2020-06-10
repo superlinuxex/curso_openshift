@@ -2,10 +2,10 @@ var express = require('express');
 app = express();
 
 app.get('/', function (req, res) {
-  res.send('Hello World!\n');
+  res.send('Hola mundo, una prueba de git!\n');
 });
 
 app.listen(8080, function () {
-  console.log('Example app listening on port 8080!');
+  console.log(' Ejemplo APP escuchando en el puerto 8080!');
 });
 
